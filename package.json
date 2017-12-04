@@ -1,0 +1,25 @@
+{
+  "name": "create-test-drill",
+  "version": "1.0.0",
+  "description": "Write a test for at least one function, then push it to Github.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulhighum/Create-Test-Drill.git"
+  },
+  "author": "Paul Highum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulhighum/Create-Test-Drill/issues"
+  },
+  "homepage": "https://github.com/paulhighum/Create-Test-Drill#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}

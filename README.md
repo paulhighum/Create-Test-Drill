@@ -1,3 +1,3 @@
 # Create-Test-Drill
 
-Write a test for at least one function, then push it to Github. 
+Creates a test for reversing a string. Write the reverse string function in the index.js file.  
