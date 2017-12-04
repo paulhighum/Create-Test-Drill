@@ -1,5 +1,5 @@
-const assert = require('assert')
-const index = require('../index.js')
+const assert = require("assert")
+const index = require("../index.js")
 
 const string = "paul is the best at everything"
 
